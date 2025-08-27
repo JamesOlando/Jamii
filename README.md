@@ -36,11 +36,27 @@ Jamii is a full-stack real-time chat application built with the **MERN stack (Mo
 
 ---
 
-## 📦 Installation
-
-### 🔧 Backend Setup
+## 🔧 Setup.env file
 
 ```bash
-cd backend
-npm install
-touch .env
+MONGODB_URI=...
+PORT=5001
+JWT_SECRET=...
+
+CLOUDINARY_CLOUD_NAME=...
+CLOUDINARY_API_KEY=...
+CLOUDINARY_API_SECRET=...
+
+NODE_ENV=development
+```
+
+## 🔧 Build the app
+
+```bash
+npm run build
+```
+
+### 🔧 Start the app
+
+```bash
+npm start
