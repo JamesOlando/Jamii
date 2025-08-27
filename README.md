@@ -1,6 +1,6 @@
 # 🌍🫂 Jamii
 
-<img width="1000" height="1000" alt="Jamii" src="https://github.com/user-attachments/assets/8b93217a-df3b-46c2-a6eb-b014d0827e0c" />
+<img width="1000" height="800" alt="Jamii" src="https://github.com/user-attachments/assets/8b93217a-df3b-46c2-a6eb-b014d0827e0c" />
 
 
 Jamii is a full-stack real-time chat application built with the **MERN stack (MongoDB, Express, React, Node.js)** and **Socket.io**, supporting private messaging, typing indicators, user authentication, and live updates. Designed for scalability, speed, and modern UX.
