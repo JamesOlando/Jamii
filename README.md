@@ -1,6 +1,6 @@
 # 💬 Real-Time Chat Application
 
-A full-stack real-time chat application built with the **MERN stack (MongoDB, Express, React, Node.js)** and **Socket.io**, supporting private messaging, group chats, typing indicators, user authentication, and live updates. Designed for scalability, speed, and modern UX.
+A full-stack real-time chat application built with the **MERN stack (MongoDB, Express, React, Node.js)** and **Socket.io**, supporting private messaging, typing indicators, user authentication, and live updates. Designed for scalability, speed, and modern UX.
 
 ---
 
