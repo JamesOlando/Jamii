@@ -24,8 +24,8 @@
 | Frontend     | React, Context API, Axios             |
 | Backend      | Node.js, Express, Socket.io           |
 | Database     | MongoDB with Mongoose ORM             |
-| Authentication | JSON Web Tokens (JWT), bcryptjs     |
-| Notifications | SuprSend SDK / Placeholder-ready for FCM |
+| Authentication | JSON Web Tokens (JWT)     |
+| Notifications | SuprSend SDK  |
 | Deployment   | Render                                |
 
 ---
