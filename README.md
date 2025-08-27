@@ -50,11 +50,15 @@ CLOUDINARY_API_SECRET=...
 NODE_ENV=development
 ```
 
+---
+
 ## 🔧 Build the app
 
 ```bash
 npm run build
 ```
+
+---
 
 ### 🔧 Start the app
 
