@@ -31,23 +31,10 @@ app.use("/api/messages", messageRoutes);
 if(process.env.NODE_ENV==="production"){
     app.use(express.static(path.join(__dirname, "../frontend/dist")));
     
-    app.get("/*", (req, res) => {
+    app.get('/{*any}', (req, res) => {
         res.sendFile(path.join(__dirname, "../frontend", "dist", "index.html"));
     })
 }
-
-app._router.stack.forEach(r => {
-  if (r.route && r.route.path) {
-    console.log("✅ Registered route:", r.route.path);
-  } else if (r.name === "router") {
-    r.handle.stack.forEach(handler => {
-      if (handler.route) {
-        console.log("✅ Registered route:", handler.route.path);
-      }
-    });
-  }
-});
-
 
 server.listen(PORT, () => {
     console.log("server is running on PORT:" + PORT);
