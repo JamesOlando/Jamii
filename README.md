@@ -1,6 +1,6 @@
-# 💬 Real-Time Chat Application
+# 🌍🫂 Jamii
 
-A full-stack real-time chat application built with the **MERN stack (MongoDB, Express, React, Node.js)** and **Socket.io**, supporting private messaging, typing indicators, user authentication, and live updates. Designed for scalability, speed, and modern UX.
+<img width="1000" height="600" alt="Jamii" src="https://github.com/user-attachments/assets/8b93217a-df3b-46c2-a6eb-b014d0827e0c" />
 
 ---
 
@@ -24,9 +24,9 @@ A full-stack real-time chat application built with the **MERN stack (MongoDB, Ex
 | Frontend     | React, Context API, Axios             |
 | Backend      | Node.js, Express, Socket.io           |
 | Database     | MongoDB with Mongoose ORM             |
-| Authentication | JSON Web Tokens (JWT), bcryptjs     |
-| Notifications | SuprSend SDK / Placeholder-ready for FCM |
-| Deployment   | Render / Vercel / Docker-ready        |
+| Authentication | JSON Web Tokens (JWT)     |
+| Notifications | SuprSend SDK  |
+| Deployment   | Render                                |
 
 ---
 
@@ -36,11 +36,31 @@ A full-stack real-time chat application built with the **MERN stack (MongoDB, Ex
 
 ---
 
-## 📦 Installation
-
-### 🔧 Backend Setup
+## 🔧 Setup.env file
 
 ```bash
-cd backend
-npm install
-touch .env
+MONGODB_URI=...
+PORT=5001
+JWT_SECRET=...
+
+CLOUDINARY_CLOUD_NAME=...
+CLOUDINARY_API_KEY=...
+CLOUDINARY_API_SECRET=...
+
+NODE_ENV=development
+```
+
+---
+
+## 🔧 Build the app
+
+```bash
+npm run build
+```
+
+---
+
+### 🔧 Start the app
+
+```bash
+npm start
