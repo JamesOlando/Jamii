@@ -26,7 +26,7 @@
 | Database     | MongoDB with Mongoose ORM             |
 | Authentication | JSON Web Tokens (JWT), bcryptjs     |
 | Notifications | SuprSend SDK / Placeholder-ready for FCM |
-| Deployment   | Render / Vercel / Docker-ready        |
+| Deployment   | Render                                |
 
 ---
 
