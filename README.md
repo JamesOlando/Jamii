@@ -7,7 +7,7 @@ A full-stack real-time chat application built with the **MERN stack (MongoDB, Ex
 ## 🚀 Features
 
 - 🔐 **User Authentication** with JWT
-- 💬 **One-on-One and Group Chats**
+- 💬 **One-on-One Messaging**
 - ✍️ **Typing Indicators**
 - ⚡ **Real-Time Messaging with Socket.io**
 - 🧠 **Context-Based State Management (React Context API)**
