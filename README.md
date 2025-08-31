@@ -33,43 +33,51 @@
 ## 🖥️ Screenshots
 
 ### 1. SignUp Screen
-![SignUp Screen](path/to/your/screenshot1.png)
+<img width="1907" height="875" alt="Screenshot 2025-08-30 204736" src="https://github.com/user-attachments/assets/ff4a6320-6bea-4980-a294-f935297bd918" />
+
 *Description:* This screenshot shows the login page where users enter their credentials.
 
 ---
 
 ### 1. Login Screen
-![Login Screen](<img width="1916" height="879" alt="login" src="https://github.com/user-attachments/assets/8094efb7-3688-4ffa-b2c7-f753928ca3fa" />
-)
+<img width="1916" height="879" alt="login" src="https://github.com/user-attachments/assets/8094efb7-3688-4ffa-b2c7-f753928ca3fa" />
+
 *Description:* This screenshot shows the login page where users enter their credentials.
 
 ---
 
 ### 2. Dashboard
-![Dashboard](path/to/your/screenshot2.png)
+<img width="1918" height="866" alt="Screenshot 2025-08-30 204816" src="https://github.com/user-attachments/assets/0cb492ad-7b6a-4a4e-b497-32cbc567b815" />
+
 *Description:* This is the main dashboard after login, highlighting key features.
 
 ---
 
 ### 3. Chat Interface
-![Chat Interface](path/to/your/screenshot3.png)
+<img width="1919" height="875" alt="Screenshot 2025-08-30 204915" src="https://github.com/user-attachments/assets/e6a3c845-3526-49ed-b505-2897dec5168b" />
+
 *Description:* Screenshot of the chat interface with active conversations.
 
 ---
 
-### 5. Profile
-![Profile](path/to/your/screenshot5.png)
+### 4. Profile
+<img width="1919" height="872" alt="Screenshot 2025-08-30 213253" src="https://github.com/user-attachments/assets/ae79dd68-68d4-4174-9c7d-889ec56956c1" />
+
 *Description:* Screenshot of the user profile section.
 
 ---
 
 ### 6. Settings
-![Settings](path/to/your/screenshot6.png)
+<img width="1916" height="870" alt="Screenshot 2025-08-30 213038" src="https://github.com/user-attachments/assets/5fb2008a-1366-4004-a8d1-25e3ea7e5a1e" />
+
 *Description:*  Screenshot of the settings.
 
+---
+
 ### 4. Online Users
-![Online Users](path/to/your/screenshot4.png)
-*Description:* Shows Online Users.
+<img width="1919" height="871" alt="Screenshot 2025-08-30 205033" src="https://github.com/user-attachments/assets/766f988e-f065-4d15-ac9a-497d0d9844e7" />
+
+*Description:* Screenshot of Online Users.
 
 ---
 
