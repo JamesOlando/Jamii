@@ -32,9 +32,47 @@
 
 ## 🖥️ Screenshots
 
-> _Add screenshots or GIFs here to demonstrate login, chat interface, notifications, etc._
+### 1. SignUp Screen
+![SignUp Screen](path/to/your/screenshot1.png)
+*Description:* This screenshot shows the login page where users enter their credentials.
 
 ---
+
+### 1. Login Screen
+![Login Screen](<img width="1916" height="879" alt="login" src="https://github.com/user-attachments/assets/8094efb7-3688-4ffa-b2c7-f753928ca3fa" />
+)
+*Description:* This screenshot shows the login page where users enter their credentials.
+
+---
+
+### 2. Dashboard
+![Dashboard](path/to/your/screenshot2.png)
+*Description:* This is the main dashboard after login, highlighting key features.
+
+---
+
+### 3. Chat Interface
+![Chat Interface](path/to/your/screenshot3.png)
+*Description:* Screenshot of the chat interface with active conversations.
+
+---
+
+### 5. Profile
+![Profile](path/to/your/screenshot5.png)
+*Description:* Screenshot of the user profile section.
+
+---
+
+### 6. Settings
+![Settings](path/to/your/screenshot6.png)
+*Description:*  Screenshot of the settings.
+
+### 4. Online Users
+![Online Users](path/to/your/screenshot4.png)
+*Description:* Shows Online Users.
+
+---
+
 
 ## 🔧 Setup.env file
 
